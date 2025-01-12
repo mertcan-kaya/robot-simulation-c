@@ -1,0 +1,18 @@
+﻿  algo.c
+  control.c
+  datatypes.c
+  dynamics.c
+  functions.c
+  kinematics.c
+  mda.c
+  movement.c
+  printdata.c
+C:\Users\Mertcan\source\repos\simc_new\simc_new\mda.c(14,18): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Mertcan\source\repos\simc_new\simc_new\mda.c(14,11): warning C4312: 'type cast': conversion from 'int' to 'mda *' of greater size
+C:\Users\Mertcan\source\repos\simc_new\simc_new\mda.c(22,18): warning C4312: 'type cast': conversion from 'int' to 'double *' of greater size
+  test.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 149 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  simc_new.vcxproj -> C:\Users\Mertcan\source\repos\simc_new\x64\Release\simc_new.exe
